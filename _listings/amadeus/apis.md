@@ -27,7 +27,7 @@ apis:
   tags: Flights
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/flights/master/_listings/amadeus/flights-inspiration-search-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/flights/master/_listings/amadeus/flights-low-fare-search-get.md
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/amadeus
