@@ -12,8 +12,8 @@ tags:
 - Marketplace
 - Hotel
 - Airlines
-created: "2018-03-21"
-modified: "2018-03-21"
+created: "2018-03-23"
+modified: "2018-03-23"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/flights/master/_listings/amadeus/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -27,7 +27,7 @@ apis:
   tags: Flights
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/flights/master/_listings/amadeus/flights-low-fare-search-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/flights/master/_listings/amadeus/flights-affiliate-search-get.md
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/amadeus
